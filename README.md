@@ -10,3 +10,7 @@ This repository is created to add any cloth to person to chekc different fashion
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61847ae4-1377-41ee-9580-7364a56dd98b" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/1ac4c8a7-af56-4ee8-8dd3-d9c6ff661591" width="350" title="Generated Image">
+</p>
