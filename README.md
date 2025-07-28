@@ -1,5 +1,5 @@
 # Virtual-try-on-
-This repository is created to add any cloth to person to chekc different fashion
+<p align="justify"> Virtual try-on uses augmented reality and AI-driven sizing to let shoppers see how clothes, accessories, or makeup look on them in real time—no changing rooms required. By mapping your body or face via a smartphone camera or webcam, it overlays garments or beauty products with realistic lighting, texture, and movement so you can rotate, zoom, and mix-and-match items before you buy. This interactive experience boosts confidence, cuts down on returns, and bridges the gap between online convenience and in-store personalization, turning browsing into a hands-on, ultra-personal shopping session from anywhere.</p>
 
 
 # Result
