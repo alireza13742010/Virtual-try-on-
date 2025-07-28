@@ -2,7 +2,7 @@
 This repository is created to add any cloth to person to chekc different fashion
 
 
-table>
+</table>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fb377a1b-8d7d-44e4-9295-48b59fcf3f73" alt="Title 1" width="200"/><br>
